@@ -1,0 +1,31 @@
+body{
+
+    background-color: lightgreen;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.message{
+    text-align: center;
+    border: 6px solid ;
+    border-color: green;
+    margin-left: auto;
+    border-radius: 10px;
+}
+
+
+#imageContainer{
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 25%;
+}
+
+#food{
+    height: 500px;
+}
